@@ -4,3 +4,5 @@ Simple Arduino L298N Library make for easy way for control DC motor by using L29
 - install library to you arduino IDE (Download from github)
 - let see examples
 # determine left and right motor
+
+![l298n]( L298N/img/l298edit.png )
