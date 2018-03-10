@@ -1,0 +1,21 @@
+		 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+L298N	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initmotor KEYWORD2
+motorLeftForwardClock KEYWORD2
+motorLeftRevertClock KEYWORD2
+motorRightForwardClock KEYWORD2
+motorRightRevertClock KEYWORD2
+motorLeftstop KEYWORD2
+motorRightstop KEYWORD2
+motorLeftbreak KEYWORD2
+motorRightbreak KEYWORD2
+
