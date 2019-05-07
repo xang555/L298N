@@ -9,7 +9,7 @@ Simple Arduino L298N Library make for easy way for control DC motor by using L29
 
 # Example
 
-```Arduino
+```c++
 
 #include <L298N.h>
 
