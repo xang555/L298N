@@ -9,7 +9,7 @@ L298N	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-initmotor	KEYWORD2
+begin	KEYWORD2
 motorLeftForwardClock	KEYWORD2
 motorLeftRevertClock	KEYWORD2
 motorRightForwardClock	KEYWORD2
